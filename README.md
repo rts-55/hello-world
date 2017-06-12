@@ -1,3 +1,3 @@
 # hello-world
 
-Hobbyist here. Commit test.
+Hobbyist here.
